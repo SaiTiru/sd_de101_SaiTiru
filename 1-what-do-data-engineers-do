@@ -1,0 +1,72 @@
+Assignment:
+
+Imagine that you are hired to enable data analytics; where would you start? How would you go about 
+gathering requirements? Hint: Think backward from what the business may need. Share your assignment with me by creating 
+a repo (like this one if you haven't already) and writing down your notes/code under the folder for lesson 1.
+
+To approach this assignment, the strategy involves thinking backward from the business needs to define 
+the data analytics requirements effectively. Here's a breakdown of how I would approach this:
+
+1. Understand Business Objectives
+   - **Key Questions:
+     - What are the company's goals and objectives?
+     - What metrics or KPIs are critical for measuring success?
+     - What decisions do they need data to support?
+
+   - Process:
+     - Meet with key stakeholders (executives, department heads) to understand the broader business strategy and specific goals.
+     - Identify the key performance indicators (KPIs) that the business uses to measure success.
+
+2. Identify Data Needs
+   - Key Questions:
+     - What data is required to achieve these business goals?
+     - Where is the data currently stored (e.g., databases, spreadsheets, external APIs)?
+     - What are the data quality and availability issues?
+
+   - Process:
+     - Conduct interviews or workshops with the business teams to understand the data they use or need.
+     - Audit existing data sources and assess their quality, completeness, and relevance.
+     - Identify any gaps in the data.
+
+3. Define Analytical Requirements
+   - Key Questions:
+     - What types of analysis are required (e.g., descriptive, predictive, prescriptive)?
+     - Who will use the analytics (e.g., data scientists, business analysts, executives)?
+     - What tools or platforms do they prefer or are familiar with?
+
+   - Process:
+     - Work with data users to determine the types of analysis they perform and the tools they use.
+     - Identify potential bottlenecks or challenges in the current data workflows.
+     - Define the scope of analytics required, such as dashboards, reports, or advanced modeling.
+
+ 4. Design Data Architecture
+   - Key Questions:
+     - How will data flow from source to analytics tools?
+     - What technology stack will be used (e.g., data warehouse, ETL tools, visualization tools)?
+     - How will data be stored, processed, and accessed?
+
+   - Process:
+     - Based on the gathered requirements, design a data architecture that meets the needs of the business.
+     - Ensure scalability, security, and flexibility in the design.
+     - Choose the appropriate tools and platforms based on the business’s existing technology stack and expertise.
+
+ 5. Create a Roadmap**
+   - Key Questions:
+     - What are the immediate priorities?
+     - What are the long-term goals?
+     - What resources (time, budget, personnel) are required?
+
+   - Process:
+     - Develop a roadmap that outlines the key milestones, timelines, and resources required for implementing the data analytics strategy.
+     - Prioritize tasks based on business needs, starting with quick wins that demonstrate value.
+
+ 6. Implement and Iterate**
+   - Key Questions:
+     - How will success be measured?
+     - How will feedback be gathered and incorporated?
+     - How will the system evolve over time?
+
+   - Process:
+     - Implement the data analytics solutions in phases, starting with a pilot or proof of concept.
+     - Gather feedback from users and iterate on the solution.
+     - Continuously monitor the system’s performance and make improvements as needed.
